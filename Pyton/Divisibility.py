@@ -5,3 +5,4 @@ if new_numb > 0:
     print("yes")
 else:
     print("no")
+    
